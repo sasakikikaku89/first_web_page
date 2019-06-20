@@ -22,7 +22,7 @@ li {
 
 .header-list li{
     font-size: 50%;
-    color: #FEFFFF;
+    color: rgba(254, 255, 255, 0.952);
     float: left; 
     padding: 33px 20px;
 
@@ -30,7 +30,7 @@ li {
 
 /* 下記、メインコンテンツ部分です！！！！！！ */
 .main{
-    height: 500px;
+    height: 580px;
 }
 
 h1 span{
@@ -40,6 +40,44 @@ h1 span{
 h2{
     font-size:80%;
 }
+
+h3{
+    font-size:80%;
+    margin-top:30px;
+    margin-bottom:5px;
+    padding-bottom:10px;
+    border-bottom: 2px double #D9D8D9    
+}
+
+.contents-item {
+    float: left;
+    padding-left:40px;
+    padding-top:20px;
+}
+
+.contents-item p{
+    font-size:60%;
+}
+
+
+.img_auction {
+    width: 200px;
+    height: auto;
+}
+
+.img_instagram {
+    width: 200px;
+    height: auto;
+}
+
+.table-date{
+    padding-top: 245px;
+}
+
+table {
+    font-size:60%;
+}
+
 /* 下記、フッダー部分です！！！！！！ */
 .footer{
     height: 90px;
