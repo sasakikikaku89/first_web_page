@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif
+}
+
+li {
+    list-style: none;
+}
+
+/* 下記、ヘッダー部分です！！！！！！ */
+.header{
+    height: 90px;
+    background-color: #5C4C45;
+}
+
+.header img{   
+    width: 15%;
+    height: auto;
+    float: left;
+    padding-top:10px;
+
+}
+
+.header-list li{
+    font-size: 50%;
+    color: #FEFFFF;
+    float: left; 
+    padding: 33px 20px;
+
+}
+
+/* 下記、メインコンテンツ部分です！！！！！！ */
+.main{
+    height: 500px;
+}
+
+h1 span{
+    color:red;
+}
+
+h2{
+    font-size:80%;
+}
+/* 下記、フッダー部分です！！！！！！ */
+.footer{
+    height: 90px;
+    background-color: #D9D8D9;
+}
+
+.footer img{   
+    width: 15%;
+    height: auto;
+    float: left;
+    padding-top:10px;
+
+}
+
+.footer-list {
+    font-size: 50%;
+    color: black;
+    float: right; 
+}
+
+.footer-list li{
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
