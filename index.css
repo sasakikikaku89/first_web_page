@@ -34,7 +34,7 @@ li {
 
 /* 下記、メインコンテンツ部分です！！！！！！ */
 .main{
-    height: 580px;
+    height: 750px;
 }
 
 h1{
@@ -46,8 +46,19 @@ h1 span{
 }
 
 h2{
-    text-align: center;    
+    text-align: center;  
+
+}
+
+h2 img{
+    width: 40%;
+    height: auto;  
+    
+}
+
+.copy-container p{
     font-size:80%;
+    text-align: center;
 }
 
 h3{
@@ -74,12 +85,12 @@ h3{
 
 
 .img_auction {
-    width: 200px;
+    width: 150px;
     height: auto;
 }
 
 .img_instagram {
-    width: 200px;
+    width: 150px;
     height: auto;
 }
 
